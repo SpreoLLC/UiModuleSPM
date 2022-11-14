@@ -1,7 +1,10 @@
 #### ================================
-### DATE: 10 Novemeber, 2022
+### DATE: 10 November, 2022
 ### Framework VERSION: 1.2.4
 ### ================================ #
+
+# Example
+To run the example project, clone the [Repo](https://github.com/SpreoLLC/IOS_UImodule_release_directory), and run pod install from the SampleApp directory first.
 
 # Installation
 
@@ -12,6 +15,14 @@
 pod 'SpreoUIPod'
 ```
 
+## Swift Package Manager
+
+Find the SpreoUIModuleSPM by entered https://github.com/SpreoLLC/UiModuleSPM package url. Use main branch for latest version.
+
+## Manual
+
+Drag the Framework or XCFramework folder into your project. 
+
 # Usage
 
 1. Import `IosUIModule`
@@ -19,7 +30,6 @@ pod 'SpreoUIPod'
 ```swift
 import IosUIModule
 ```
-
 2. Use Settings
 
   2.1 The parameter can be changed to open search with specific category on module start. Doesn't work if showClosestPoiDetails = YES and specific category empty or incorrect .
@@ -28,13 +38,13 @@ import IosUIModule
       SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
 ```
       
-  2.2 The parameter can be used  to present closest poi from specific category on start. Doesn't work if openSearchOnStart = YES and specific category empty or incorrect.
+  2.2 The parameter can be used  to present closest poi from specific category on start. Doesn't work if  openSearchOnStart = YES and specific category empty or incorrect.
 ```swift
     SpreoUIModuleSettings.sharedInstance().showClosestPoiDetails = true
     SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
 ```
 
-3. Get the viewcontroller
+3. Get the view controller
 
 ```swift
 let vc = IosUIModuleKit.initWithApiKey("YOUR_SPREO_API_KEY")
