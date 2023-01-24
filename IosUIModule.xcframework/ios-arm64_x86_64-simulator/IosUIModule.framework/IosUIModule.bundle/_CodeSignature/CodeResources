@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0K1LRTtNmai9eQnAhMTNRfgjjvI=
+		nxC4BahbDfA2YfU1AZJYszkpyVs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		F1HcCB8M6s+R9TsDdeYviYFYlKo=
+		JxNIzQ7rPJYKVfaCUfuMpTuvqXo=
 		</data>
 		<key>LevelPickerCell.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>UIModuleMain.storyboardc/G0r-xh-wOM-view-iGJ-j8-ZKT.nib</key>
 		<data>
-		rnGIOQF9oUgAilxplJQL1fEcqXU=
+		nz9vZdag/jQk7M9/SdYV0SEjb4Y=
 		</data>
 		<key>UIModuleMain.storyboardc/HomeViewController.nib</key>
 		<data>
@@ -54,27 +54,31 @@
 		</data>
 		<key>UIModuleMain.storyboardc/YJx-hf-3j7-view-3KJ-fb-rx2.nib</key>
 		<data>
-		jZH1DJMm3NRcereHuAueOQqfb2E=
+		dpFX+SjxPfqGchx/eOn7iBhiPag=
 		</data>
 		<key>UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<data>
-		XTTDuoLCU7A9umo4xx/c0h7OrIk=
+		cH4XY0q4Qy4Isz5OIYSZuEJE0jk=
 		</data>
 		<key>UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
 		<data>
-		RkREnG0HaHyiOtjVhTDCOXvxLsw=
+		PXueN9ewfIw63NRKgSvWGV7Qic4=
 		</data>
 		<key>UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<data>
-		SCF9WopkhWVRrDW2UC1T/sgtGHo=
+		hto0YWd7csO6yj5NzG3Cy+JOSx8=
 		</data>
 		<key>UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<data>
-		NZJ+KmivR0LwWOFbx66JIgiLVpo=
+		9ze98nJ8ZQEiBFPqGCO3XYwDrBE=
 		</data>
-		<key>strings.json</key>
+		<key>en_localization.json</key>
 		<data>
-		9rNcSQ8NrV3rCfrVhfL+eByuP6M=
+		pZ5w3dJi5hfwmU/LgkiD/MX+c14=
+		</data>
+		<key>es_localization.json</key>
+		<data>
+		Xv/rI475c9/GBMFINkfkZb7FNBU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ppTB5E72jtnXnQ4jey3PZU5CBR8aO4KaOhH1AJ639b0=
+			FAhByPVUJQsNCffFkiNHuoQP0gh8mFtXbXRZxCJd2AI=
 			</data>
 		</dict>
 		<key>LevelPickerCell.nib</key>
@@ -118,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xLnUb+WOfkENyfgMOMhMpnfnwV/WgIXg/dSYqfh0F1s=
+			IlmEan40fa+BM2LcDu84B3JV9hR59imVhharXKLVuWA=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/HomeViewController.nib</key>
@@ -160,42 +164,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbcC8BxJYnsWocAncy+WYIHrZeXDK03OS3hH8GuRuOM=
+			CmLzNz3PfC1g+lTLTZ20UA/NUZT8dbFSbWC/MjMBf5I=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dqkDj/cLbEsP9ex5JfuzJ93LVjo4u6LFQOyFEtW3I/I=
+			z2x4rQ+PMLiHfNxCCtKSF1JOCVkjgXfli6+izyTCfm8=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dzELpN+vuJNO2fJzMN4ujwt4LsmTwoue6y0Tpknh9XY=
+			/xSpo/AXGQI3Rn8OmU/lMZO84PmP4Av3rsQ/7JTbqe0=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			172uSpzCE+YOGlKBLju46W4V53DBYfZ4buQth/qUkcE=
+			P6CVOymND02Ex6yela6kxAi+FUBncOJDWP6W/Uvvb7k=
 			</data>
 		</dict>
 		<key>UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eu12ygp2i5DjDJq2zs2XYdzQW8ix3Jkt7EzEYXk5raU=
+			pbX1TnVNOhtNKkwHU7+53mnnYKF12YPcx5G1qOMCx1E=
 			</data>
 		</dict>
-		<key>strings.json</key>
+		<key>en_localization.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pxrvnbdq64ALl+EGS2omRgyNreAf1HHaNu6tjgQDZ0c=
+			FbGLXP5aNhpAx34GK7F6GXH4cXP4zdRKhQwk5d2WAcM=
+			</data>
+		</dict>
+		<key>es_localization.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5njtK4MB/T/cyTJb3Axp5iAjTKAG+HyRX+Dp6gwiu48=
 			</data>
 		</dict>
 	</dict>
