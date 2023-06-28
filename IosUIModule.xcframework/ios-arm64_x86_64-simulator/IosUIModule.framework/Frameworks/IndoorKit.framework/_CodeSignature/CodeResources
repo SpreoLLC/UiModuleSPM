@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/IDCategory.h</key>
 		<data>
-		7igiSON3lIE3vJfKRCKCKEaIflg=
+		Kw5rV7/rPiTbb3w9jWibd0Z925A=
 		</data>
 		<key>Headers/IDConvertedLocation.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/IDPoi.h</key>
 		<data>
-		+yRAR8/kvS2CRF6OkU9ap8r370I=
+		Z/i/PiwsOadDFIrIcd+ivARuRws=
 		</data>
 		<key>Headers/IDPoiDistance.h</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Headers/IDPoi_Keys.h</key>
 		<data>
-		o4xjk0n8D49xo/2iPcymfACZiUw=
+		+DDJzjQ1o+D6H2rt98qtkGvPGOo=
 		</data>
 		<key>Headers/IDProjectLocation.h</key>
 		<data>
@@ -594,6 +594,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xgFKAKyAH3YYZtX+0y1mdX6WhVU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
@@ -653,6 +662,15 @@
 			<key>hash</key>
 			<data>
 			jc7ZunVeR/4RHErYmTit+mjTprE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gIrkbb39VnY+TOyLIbx45uH40lY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -791,6 +809,46 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<data>
+		JMIzIZ9izwPLkFbGpybEDcjnz7c=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast.png</key>
+		<data>
+		AAR1u0EDgizTO6c+arDush1MFXQ=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast_night.png</key>
+		<data>
+		20aMPRfTp4RiaEJ3gmioP38pYck=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow.png</key>
+		<data>
+		RjXvPqYlk8TLbeVMqI1rRLGGxkM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow_night.png</key>
+		<data>
+		QSU98IRtVJFtlfNGOUjel2Eq+1c=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<data>
+		G+epinU1D/ABNNd9znBSZ13ndrE=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go.png</key>
+		<data>
+		AMt9ccrqHczFtAFDe6+VLmtwYEU=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go_night.png</key>
+		<data>
+		iRrGWbJn8f/O0D0bmZL8s3ivjoU=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped.png</key>
+		<data>
+		gdjNv/dDFdFHlN/jV6678f3dtEo=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped_night.png</key>
+		<data>
+		DErXBfMg+reu+FeXyAGYDtoI3ZI=
+		</data>
 		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1422,7 +1480,11 @@
 		</data>
 		<key>IndoorKit.bundle/Info.plist</key>
 		<data>
-		bOzPxKGcSkWti0bYCf+2iFBroqU=
+		PX1BHWBMlLjhtTSQGntHwFIBqy0=
+		</data>
+		<key>IndoorKit.bundle/NewPoiMarkerView.nib</key>
+		<data>
+		uAhYHengkEXtaR9iXLtK2l6wou4=
 		</data>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
 		<data>
@@ -1430,7 +1492,7 @@
 		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		7bRn+CANmazv04hqKBCtHZtUYA8=
+		nGY87kid4bRHYbYp84e78O7omwE=
 		</data>
 		<key>IndoorKit.bundle/instructionsPlist/instructions-en.plist</key>
 		<data>
@@ -1762,7 +1824,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hYyEwgFX+YT9ourBdeDawFb81nc=
+		2th1bUKG3/4+S28HKIk9hW9oH8Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1819,11 +1881,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7igiSON3lIE3vJfKRCKCKEaIflg=
+			Kw5rV7/rPiTbb3w9jWibd0Z925A=
 			</data>
 			<key>hash2</key>
 			<data>
-			j+WgtapqG3DXqvRVxNVOwUSzZfOt2INt2JPYtXVSrfQ=
+			oKKyROSNT+l9IsAoiFXJ/UoBDT4S13Q6HIMTMIidPJQ=
 			</data>
 		</dict>
 		<key>Headers/IDConvertedLocation.h</key>
@@ -2116,11 +2178,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+yRAR8/kvS2CRF6OkU9ap8r370I=
+			Z/i/PiwsOadDFIrIcd+ivARuRws=
 			</data>
 			<key>hash2</key>
 			<data>
-			ifZjrIs+jP5kktZ1e0m8O4iiY7M5/tctgnXQA6MXcnc=
+			Wktj9UfbHoKTGZUh8Gu9JVCaz5x0MtylOTkWjpP2aVo=
 			</data>
 		</dict>
 		<key>Headers/IDPoiDistance.h</key>
@@ -2149,11 +2211,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o4xjk0n8D49xo/2iPcymfACZiUw=
+			+DDJzjQ1o+D6H2rt98qtkGvPGOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vcbh+kOnaj80uUYC/s3HXNioa9v/me0FV/6KtCqBblk=
+			NlntDyb6CwSdDBu4qaXrM3/a6c2P6rl5BQwe9gJ9ECk=
 			</data>
 		</dict>
 		<key>Headers/IDProjectLocation.h</key>
@@ -3135,6 +3197,19 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xgFKAKyAH3YYZtX+0y1mdX6WhVU=
+			</data>
+			<key>hash2</key>
+			<data>
+			FQj5xEOMy9pKn1hl0VuJKy5TXuhj4WeZs9DSpr0LFAw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
@@ -3222,6 +3297,19 @@
 			<key>hash2</key>
 			<data>
 			LodzOqZc692AERdHFw7Daj3oYYCx/D3fr6oaNUrWwvM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gIrkbb39VnY+TOyLIbx45uH40lY=
+			</data>
+			<key>hash2</key>
+			<data>
+			H1yxH+puBriCgRZ1K7g6z5Z+gBfnTDZnYM1m/pVF1Zk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3476,6 +3564,116 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JMIzIZ9izwPLkFbGpybEDcjnz7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			LRveTLcg79RcFKLPlICnbpy9cMLFjvpirtWiug8ENh4=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AAR1u0EDgizTO6c+arDush1MFXQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ojQmJmupqVHIBdTJ93dUYMOg3Bg0OPQbpqcX5jAU+ZQ=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast_night.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			20aMPRfTp4RiaEJ3gmioP38pYck=
+			</data>
+			<key>hash2</key>
+			<data>
+			NGNYPzQiYUMi8ED8Wc9w8OGU2s8cjpceluuKrYcgJ2k=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RjXvPqYlk8TLbeVMqI1rRLGGxkM=
+			</data>
+			<key>hash2</key>
+			<data>
+			9X01yy+QLrGikjXpDzB+9BC1mzC+eHC3Kmx/MnnfkOE=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow_night.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QSU98IRtVJFtlfNGOUjel2Eq+1c=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xs2MWbwrqL1ySHtvWB5TmPfj231cwvbRBAUGuwCjC0c=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G+epinU1D/ABNNd9znBSZ13ndrE=
+			</data>
+			<key>hash2</key>
+			<data>
+			sjvl6HdTaXxkEnfXJPwFre8lYgfOf9V+C6R4DAut5Z4=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AMt9ccrqHczFtAFDe6+VLmtwYEU=
+			</data>
+			<key>hash2</key>
+			<data>
+			MZ09pFs9n/74PhYWeDGIKQBaWt3Whc+PlR5gSnzeUZU=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go_night.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iRrGWbJn8f/O0D0bmZL8s3ivjoU=
+			</data>
+			<key>hash2</key>
+			<data>
+			wq42PGVY8v/vUB0oifRyHArSZJqTJSOCuGUtufxje24=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gdjNv/dDFdFHlN/jV6678f3dtEo=
+			</data>
+			<key>hash2</key>
+			<data>
+			NcCwwed+m/7rIH8OIgMrW/j6rULM7KVhDLoe72dckYM=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped_night.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DErXBfMg+reu+FeXyAGYDtoI3ZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BzNaQs9vMeZ98yydG7Sx+S8Rtb/RQqEGdlP/NWl5jEA=
+			</data>
 		</dict>
 		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
@@ -5152,11 +5350,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bOzPxKGcSkWti0bYCf+2iFBroqU=
+			PX1BHWBMlLjhtTSQGntHwFIBqy0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nW+uwVbygOjsqHYhuh1Tqmii3zUQinkqBah9bgzfDr8=
+			V18V3oaxGyPLMXO3vvgt/6ICyxdcJEM2X1AUJrM1ZYw=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/NewPoiMarkerView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uAhYHengkEXtaR9iXLtK2l6wou4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+9u3LBuu6ZhvkthcNa+cJPGJFaK14eUazrQg+ZKLIo=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
@@ -5174,11 +5383,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7bRn+CANmazv04hqKBCtHZtUYA8=
+			nGY87kid4bRHYbYp84e78O7omwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			aVpWJd5juYXuxCPBX/Tk9ha8ZGh5wEv9O1Om80x543U=
+			h9Zo4uHXYrS0MgVzgKs9zujGIoj5qnyqYUUGrM3VzTY=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/instructionsPlist/instructions-en.plist</key>
