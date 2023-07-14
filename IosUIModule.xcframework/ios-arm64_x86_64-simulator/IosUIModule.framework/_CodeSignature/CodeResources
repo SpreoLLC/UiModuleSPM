@@ -819,7 +819,7 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/IndoorKit</key>
 		<data>
-		0uRGguOS0Jw9OBOXiIcVN/BhjKA=
+		uDwK8367X4KKXjhmBbvRVwDe8cA=
 		</data>
 		<key>Frameworks/IndoorKit.framework/IndoorKit.bundle/Fonts/Arial Black.ttf</key>
 		<data>
@@ -1727,7 +1727,7 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		Q5d8G3bmNfYeGAkTEV/ARSwPFyQ=
+		jUGyy/+MqMD2XAx48ahBC+GgPQc=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1735,11 +1735,11 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		DarnTT48yUhO0mu45+kw78TOtj0=
+		Ugg5kgmqzw1S7XLMszuukEIDhoE=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		EScnNoHT2ABS5bx7VGoV4R2G51U=
+		Jy2EKMO61+e6Yx2pz2CKUU+VlYg=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -3476,7 +3476,7 @@
 		</data>
 		<key>IosUIModule.bundle/IosUIModule</key>
 		<data>
-		w/F2xbg4tPMt6jm+P88dcC5HDMs=
+		Q3kb+M/KK8HK0JxrO56YzyBsk3s=
 		</data>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
 		<data>
@@ -3588,7 +3588,7 @@
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
 		<data>
-		sSTtDE6996x1gUm38DoxcgF++8c=
+		EWuzwggEh9+TlG5bhqV/dtOKGvo=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
 		<data>
@@ -3608,15 +3608,15 @@
 		</data>
 		<key>IosUIModule.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		HGqCeU6K0fZy63fe/M+T/OTvug8=
+		HErGZZ+EwSQ4aee5uBDbESt8hts=
 		</data>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<data>
-		hAH5y51ob7PVknm5DtdvUT28u1U=
+		Zf8CqKp15wFeYPlBGlg3l+iSKpQ=
 		</data>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<data>
-		zybKXLFZFnNcjgmjNI2VYi37JP0=
+		vfr5J8FlLTJ4eZJ6kTcEWMkLAL0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -4721,7 +4721,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cv2iHQf7/KcTYqT5vRFzVqzCrDwdCLw9qn8TZvUwWxg=
+			1+QBl968zUUCideEB8kqTUzgqSLa1ISoa0pt76LK77A=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/IndoorKit.bundle/Fonts/Arial Black.ttf</key>
@@ -6310,7 +6310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hWhcmwj+FB5r6aEjDW8uNmKOemt2co1EQ7HUqKObEaU=
+			zDD3bJfrsXHpTsVKYWINq2113FVIDuoJDch43IDOVEE=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements</key>
@@ -6324,14 +6324,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZ5fQssKROZwk9byDR2cai/u3eMFA22npX+WhP3Jn2Y=
+			mud7fEgAxp9ICVkbhcNYSU22t6p1QD8eW7HESGmcyV8=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hYKMC2qNtIbkLynwN15Mhd7rkb/vZLlabRfkM4PeDTA=
+			5Y83rz028q0UYw6WW36JNFh4Kp2/GzM0K1mDZpIKIy8=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeSignature</key>
@@ -9033,7 +9033,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKMyr1qqJ89DUwOnNLrKehGBWGbusTEjnqfq+bPZaiI=
+			x7D4Dzmp37xVr0wuin4RHFIoA8cuytYrmrX16Jix6BQ=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
@@ -9229,7 +9229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HvGKibhPNZenb0O3UZ4x8bigk1mBoaHxT0SDdN5uS1Q=
+			JrglEwtB2nOtA2mAJjnlFP3Wt0zqZ+UuN3mVQ97AlH4=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
@@ -9264,21 +9264,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wjZRSezb9SsuEP1JS1wc6RulL/9MrCJZRFCrzos/HtY=
+			jpmUPtMr5J3Dwprbvmb/XMT/W3gMCyQoQPp9EZQUr3g=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8UVEB7i6nL4OgpZeMjGR+hMg4rG321XbPnysIaocxGo=
+			UpODwUoG5k+BSCc3SfK4CxIikcm7rWVEi7PWS5EnTPA=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			77emleCEmvGXAqqa6xRc8s3EpBgOX8FpeQJ2His5y2I=
+			7VhPZv59FWHgzqnVEwCmycJSIpThIxlYD3jhzTG9SqQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
