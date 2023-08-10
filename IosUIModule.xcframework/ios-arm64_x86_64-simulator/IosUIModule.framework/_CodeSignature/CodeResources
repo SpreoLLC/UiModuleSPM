@@ -819,7 +819,7 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/IndoorKit</key>
 		<data>
-		uDwK8367X4KKXjhmBbvRVwDe8cA=
+		chANdn9/oLaiXaI6pP7KDnnRMEk=
 		</data>
 		<key>Frameworks/IndoorKit.framework/IndoorKit.bundle/Fonts/Arial Black.ttf</key>
 		<data>
@@ -1727,7 +1727,7 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		jUGyy/+MqMD2XAx48ahBC+GgPQc=
+		3mL/shbGZUPVTCQnJIETlHfoBDU=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1735,11 +1735,11 @@
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Ugg5kgmqzw1S7XLMszuukEIDhoE=
+		rlrltZmCWxDwsSRbitEfstm1Jr8=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Jy2EKMO61+e6Yx2pz2CKUU+VlYg=
+		G0fcFw9T3UL8uQa0sX0/EDaHahI=
 		</data>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -2560,7 +2560,7 @@
 		</data>
 		<key>Headers/UIModuleSettings.h</key>
 		<data>
-		NdwNluIiKnVojDlEBRpufAVMJ04=
+		iIa46WPfMzH1zrkpWDw1qAZ29WU=
 		</data>
 		<key>IndoorKit.bundle/Fonts/Arial Black.ttf</key>
 		<data>
@@ -4721,7 +4721,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+QBl968zUUCideEB8kqTUzgqSLa1ISoa0pt76LK77A=
+			pg5dmV0dvAwaA4I9GjEe7PefHLCUzbm5HKYiZ7GF0Ns=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/IndoorKit.bundle/Fonts/Arial Black.ttf</key>
@@ -6310,7 +6310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDD3bJfrsXHpTsVKYWINq2113FVIDuoJDch43IDOVEE=
+			nFqtxxAbtJLbL6XP98s5cXgymcpQDgT3QEexMa7aY/g=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeRequirements</key>
@@ -6324,14 +6324,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mud7fEgAxp9ICVkbhcNYSU22t6p1QD8eW7HESGmcyV8=
+			8Ws3nEB+m95zFHlX3pbwaTUW1tCvrqxYw+FVblQ0N2g=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Y83rz028q0UYw6WW36JNFh4Kp2/GzM0K1mDZpIKIy8=
+			fEDoPhHUxoJdby6YExZ21m2/89GpSgXZ8bmBK7Hgbzg=
 			</data>
 		</dict>
 		<key>Frameworks/IndoorKit.framework/_CodeSignature/CodeSignature</key>
@@ -7437,7 +7437,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EQiZ2Z5CbQqD/0VkiA/4lE1tUqMkSWYNzUiVukh5aQE=
+			nNhSKxthEgx/7I/+miocYP8sKbQ4IFj33ZVs0WKN5VA=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Fonts/Arial Black.ttf</key>
